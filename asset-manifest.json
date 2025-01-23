@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/naveenprasanth06.github.io/Weather-API/static/css/main.56baaaa6.css",
-    "main.js": "/naveenprasanth06.github.io/Weather-API/static/js/main.fdf4d224.js",
-    "static/js/488.bce68be1.chunk.js": "/naveenprasanth06.github.io/Weather-API/static/js/488.bce68be1.chunk.js",
-    "index.html": "/naveenprasanth06.github.io/Weather-API/index.html",
-    "main.56baaaa6.css.map": "/naveenprasanth06.github.io/Weather-API/static/css/main.56baaaa6.css.map",
-    "main.fdf4d224.js.map": "/naveenprasanth06.github.io/Weather-API/static/js/main.fdf4d224.js.map",
-    "488.bce68be1.chunk.js.map": "/naveenprasanth06.github.io/Weather-API/static/js/488.bce68be1.chunk.js.map"
+    "main.css": "/Weather-API/static/css/main.56baaaa6.css",
+    "main.js": "/Weather-API/static/js/main.f8677ffc.js",
+    "static/js/488.bce68be1.chunk.js": "/Weather-API/static/js/488.bce68be1.chunk.js",
+    "index.html": "/Weather-API/index.html",
+    "main.56baaaa6.css.map": "/Weather-API/static/css/main.56baaaa6.css.map",
+    "main.f8677ffc.js.map": "/Weather-API/static/js/main.f8677ffc.js.map",
+    "488.bce68be1.chunk.js.map": "/Weather-API/static/js/488.bce68be1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.56baaaa6.css",
-    "static/js/main.fdf4d224.js"
+    "static/js/main.f8677ffc.js"
   ]
 }
